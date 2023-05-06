@@ -83,8 +83,8 @@ author:
   name             : "Qiuhao Wang"
   avatar           : "self introduction.png"
   bio              : "Ph.D. Candidate in Data Science"
-  location         : "School of Data Science"
-  employer         : "City University of Hong Kong"
+  location         : "School of Data Science, City University of Hong Kong"
+  employer         : #"City University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
