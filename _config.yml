@@ -83,12 +83,12 @@ author:
   name             : "Qiuhao Wang"
   avatar           : "self introduction.png"
   bio              : "Ph.D. Candidate in Data Science<br>School of Data Science<br>City University of Hong Kong"
-  location         : "School of Data Science"
+  location         : "Hong Kong"
   employer         : #"City University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jerrison.wang@my.cityu.edu.hk"
-  researchgate     :  example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
   codepen          :
