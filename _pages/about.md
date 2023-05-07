@@ -14,8 +14,7 @@ You can find my CV [here](../assets/Curriculum_Vitae.pdf).
 
 Research Interests
 ======
-My research interest includes dynamic decision making, optimization algorithms, robust optimization and reinforcement learning.
-- First item
-- Second item
-- Third item
-- Fourth ite
+I am interested in computational optimization and operations research. My current work focuses on 
+- Robust Optimization
+- Dynamic decision making
+- Optimization algorithms
