@@ -9,22 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Working Papers
+## Working Papers
 ======
 - Wang, Q.H., Ho, C. P., Fast Policy Iteration for Singularly Perturbed MDPs, under review in SIAM Journal on Control and Optimization.
 - Yu, Z.D., Wang, Q.H., Chow, A.H.F., Ho, C. P., Skip-stop Bus Scheduling using Robust Markov Decision Processes.
 
-Publications
+## Publications
 ======
 - Wang, Q.H., Ho, C. P., Petrik, M., Policy Gradient in Robust MDPs with Global Convergence Guarantee, accepted in the 40th International Conference on Machine Learning (ICML), 2023.
   
-Research Supervisions
+## Research Supervisions
 ======
 MSc students at City University of Hong Kong (co-supervised with Dr. Chin Pang Ho):
 - Qu Tong, Li Jiaxin and Zhang Junjie, "Recommendation System for Creating Courses", 2021.
 - Wong Ka Wai, Li Ka Ho, and Choi Sheung Shing, "Recommendation System for Creating Courses", 2021.
 
-Paper Reviews
+## Paper Reviews
 ======
 - Journal: Machine Learning
 - Conference: 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)
