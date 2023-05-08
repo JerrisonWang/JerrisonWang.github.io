@@ -15,7 +15,7 @@ redirect_from:
 
 ## Working
 
-* Southwest Securities Company,Ltd., Chongqing, China
+* Southwest Securities Company, Ltd., Chongqing, China
   * Quantitative Research Intern
 * Roland Berger, Shanghai, China
   * Part-time Assistant (PTA)
