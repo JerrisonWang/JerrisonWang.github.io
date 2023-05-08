@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Working Papers
 ======
 - Wang, Q.H., Ho, C. P., Fast Policy Iteration for Singularly Perturbed MDPs, under review in SIAM Journal on Control and Optimization.
