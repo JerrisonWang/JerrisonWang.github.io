@@ -2,13 +2,7 @@
 main:
 
   - title: "Research"
-    url: /cv/
-   
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/   
+    url: /cv/    
     
-  - title: "Guide"
+  - title: "Experience"
     url: /markdown/
