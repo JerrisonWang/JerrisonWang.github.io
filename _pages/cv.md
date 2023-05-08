@@ -18,7 +18,7 @@ redirect_from:
   
 ## Research Supervisions
 
-*MSc students at City University of Hong Kong (co-supervised with Dr. Chin Pang Ho):
+MSc students at City University of Hong Kong (co-supervised with Dr. Chin Pang Ho):
     * Qu Tong, Li Jiaxin and Zhang Junjie, "Recommendation System for Creating Courses", 2021.
     * Wong Ka Wai, Li Ka Ho, and Choi Sheung Shing, "Recommendation System for Creating Courses", 2021.
 
