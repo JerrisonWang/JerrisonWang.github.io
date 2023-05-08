@@ -19,3 +19,4 @@ I am interested in computational optimization and operations research. My curren
 - Robust Optimization
 - Dynamic decision making
 - Optimization algorithms
+- Reinforcement Learning
