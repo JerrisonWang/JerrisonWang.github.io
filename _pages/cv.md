@@ -25,4 +25,4 @@ MSc students at City University of Hong Kong (co-supervised with Dr. Chin Pang H
 ## Paper Reviews
 
 * Journal: Machine Learning
-* Conference: 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)
+* Conference: 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023), 37th Conference on Neural Information Processing Systems (NeurIPS 2023)}
