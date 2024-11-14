@@ -11,7 +11,8 @@ redirect_from:
 
 * Wang, Q.H., Ho, C. P., Fast Policy Iteration for Singularly Perturbed MDPs.
 * Yu, Z.D., Wang, Q.H., Chow, A.H.F., Ho, C. P., Skip-stop Bus Scheduling using Robust Markov Decision Processes.
-* Wang, Q.H., Xu, S.H, Ho, C. P., Petrik, M., Policy Gradient for Robust Markov Decision Processes, Available online.
+* Wang, Q.H., Xu, S.H, Ho, C. P., Petrik, M., [Policy Gradient for Robust Markov Decision Processes](https://arxiv.org/abs/2410.22114), Available online.
+
 
 ## Publications
 
