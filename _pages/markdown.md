@@ -15,6 +15,8 @@ redirect_from:
 
 ## Working
 
+* Hong Kong University of Science and Technology, Hong Kong SAR, China
+  * Visiting Scholar in [IEDA](https://ieda.ust.hk/eng/index.php)
 * Southwest Securities Company, Ltd., Chongqing, China
   * Quantitative Research Intern
 * Roland Berger, Shanghai, China
