@@ -9,7 +9,7 @@ redirect_from:
 
 ## Working Papers
 
-* Wang, Q.H., Xu, S.H, Ho, C. P., Petrik, M., [Policy Gradient for Robust Markov Decision Processes](https://arxiv.org/abs/2410.22114), Journal of Machine Learning Research (JMLR), minor revision.
+* Wang, Q.H., Xu, S.H, Ho, C. P., Petrik, M., [Policy Gradient for Robust Markov Decision Processes](https://arxiv.org/abs/2410.22114), available online.
 * Wang, Q.H., Ruan, H.L., Zhou, S.Y., Chen, Z., Ho, C. P., Risk-Aware Robust Satisficing Markov Decision Processes.
 * Wang, Q.H., Ho, C. P., Fast Policy Iteration for Singularly Perturbed MDPs.
 * Yu, Z.D., Wang, Q.H., Chow, A.H.F., Ho, C. P., Skip-stop Bus Scheduling using Robust Markov Decision Processes.
