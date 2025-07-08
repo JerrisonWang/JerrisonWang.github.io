@@ -15,11 +15,13 @@ redirect_from:
 
 ## Working
 
+* Southwestern University of Finance and Economics, Chengdu, Sicuan Province, China
+  * Quantitative Research Intern
 * Hong Kong University of Science and Technology, Hong Kong SAR, China
   * Visiting Scholar in [IEDA](https://ieda.ust.hk/eng/index.php)
 * Southwest Securities Company, Ltd., Chongqing, China
   * Quantitative Research Intern
 * Roland Berger, Shanghai, China
-  * Part-time Assistant (PTA)
+  * Part-time Assistant
 
 
