@@ -9,6 +9,9 @@ redirect_from:
 
 ## Teaching
 
+* Assistant professor, Southwestern University of Finance and Economics
+  * 物流系统分析与设计，Spring 2025
+  * 优化理论与应用，Spring 2025
 * Teaching Assistant, City University of Hong Kong
   * Optimization for Data Science (MSc Data Science), Autumn 2020, Autumn 2021
   * Reinforcement Learning (MSc Data Science), Spring 2021, Spring 2022
