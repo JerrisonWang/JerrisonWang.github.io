@@ -27,5 +27,5 @@ MSc students at City University of Hong Kong (co-supervised with Dr. Chin Pang H
 
 ## Paper Reviews
 
-* Journal: Machine Learning, Journal of Artificial Intelligence Research
-* Conference: 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023), 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 12th International Conference on Learning Representations (ICLR 2024), 41st International Conference on Machine Learning (ICML 2024)
+* Journal: Machine Learning, Journal of Artificial Intelligence Research, Expert Systems with Applications
+* Conference: 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023), 37th Conference on Neural Information Processing Systems (NeurIPS 2023), 12th International Conference on Learning Representations (ICLR 2024), 41st International Conference on Machine Learning (ICML 2024), 39th Conference on Neural Information Processing Systems (NeurIPS 2025),
