@@ -17,6 +17,7 @@ redirect_from:
 ## Publications
 
 * Wang, Q.H., Ho, C. P., Petrik, M., Policy Gradient in Robust MDPs with Global Convergence Guarantee, accepted in the 40th International Conference on Machine Learning (ICML), 2023.
+* Wang, Q.H., Zha, Y.Q., Ho, C. P., Petrik, M., Provable Policy Gradient for Robust Average-Reward MDPs Beyond Rectangularity, accepted in the 42th International Conference on Machine Learning (ICML), 2025.
   
 ## Research Supervisions
 
